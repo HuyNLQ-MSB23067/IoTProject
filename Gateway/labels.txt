@@ -1,0 +1,3 @@
+0 Absent
+1 Present (No mask)
+2 Present (With Mask)
